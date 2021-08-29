@@ -54,5 +54,16 @@
     <ClCompile Include="NQueen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CountWordsByTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sumOfDigits.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="wordsInput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
